@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhagath Kapisetty</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
+<h3 align="center">A passionate DATA ANALYST AND DATA SCIENTIST from India</h3>
 
-- 🌱 I’m currently learning **SQL,PYTHON,POWER BI**
+- 🌱 I'have excelled **SQL,PYTHON,POWER BI,MACHINE LEARNING, DEEP LEARNING**
 
-- 👯 I’m looking to collaborate on **DATA ANALYST**
+- 👯 I’m looking to collaborate on **DATA ANALYST, DATA SCIENCE**
 
 - 📫 How to reach me **bhagathkapisetty93@gmail.com**
 
