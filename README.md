@@ -95,19 +95,23 @@
 - AI Agents
 - Generative AI Application Development
 
+
+
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhagath-kapisetty-75250a287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bhagathkapisetty93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhagathkapisetty93@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
+
+
 
 <h3 align="center">⭐ Keep Learning | Keep Building | Keep Innovating ⭐</h3>
