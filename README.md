@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhagath Kapisetty</h1>
 
-<h3 align="center">AI/ML Engineer | Generative AI | LLM Applications</h3>
+<h3 align="center">AI/ML Engineer | AI | LLM Applications</h3>
 
 <p align="center">
   Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Large Language Models.
